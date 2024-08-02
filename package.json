@@ -2,13 +2,15 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "check": "tsc --noEmit"
   },
   "dependencies": {
     "@fusorjs/dom": "^2.3.1"
   },
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "typescript": "^5.5.4"
   },
   "@parcel/resolver-default": {
     "packageExports": true

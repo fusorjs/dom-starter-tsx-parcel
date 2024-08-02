@@ -2,6 +2,6 @@
 
 Boilerplate project for:
 
-- JavaScript
+- Typescript
 - [Fusor](https://github.com/fusorjs/dom) DOM library
 - [Parcel](https://parceljs.org/)
